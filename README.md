@@ -29,4 +29,3 @@ Before presenting the final results from the analysis process to the leadership 
 ### Step 4: Presentation:
 Communicating the insights derived from the data preprocessing, modelling and visualization stages to the clients.
 
-### Reflections:
